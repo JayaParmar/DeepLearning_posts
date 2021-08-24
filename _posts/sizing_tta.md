@@ -1,3 +1,4 @@
+**#Lesson 7 'sizing_and_tta.ipynb'**
 # What is the difference between ImageNet and Imagenette? When is it better to experiment on one versus the other?
 
 ImageNet is a computer vision model containing 1.3 million images of various sizes around 500 pixels across, in 1,000 categories.
